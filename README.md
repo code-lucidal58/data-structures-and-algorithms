@@ -1,8 +1,8 @@
 # Named Algorithms
 I am learning new algorithms and will be making notes for all of thoses here, along with examples.
 
-* Kabane Alhorithm
+* [Kabane Alhorithm](./kabane.py)
 
 String matching algorithms
-* Naive
-* KMP (Knuth Morris Pratt) Pattern Searching
+* [Naive](./naive.py)
+* [KMP (Knuth Morris Pratt) Pattern Searching](./kmp.py)
