@@ -1,5 +1,5 @@
 """
-Naive algorithm is used for finding the indices of the presence of a given substring pattern in a string
+Naive algorithm is used for finding the indices of the presence of a given substring pattern in a string.
 Time Complexity O(m*(n-m+1)) or O(nm) where n and m are the lengths of string snd substrings respectively
 """
 
